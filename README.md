@@ -149,7 +149,7 @@ húmedo.
 | Contenidos científicos y desarrollo de software | Simone González-Vidal |
 | Diseño de experiencia y composición sonora | Maximiliano Rioseco |
 | Dirección general | Francisco Córdoba |
-| Música de referencia del demo | [NOMBRE DEL ARTISTA DE AUDIO] |
+| Música de referencia del demo | Maximiliano Rioseco |
 
 Instituciones asociadas: Balmaceda Arte Joven Biobío (Concepción) y Oficina de la Discapacidad
 e Inclusión, Ilustre Municipalidad de San Pedro de la Paz.
