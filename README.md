@@ -138,7 +138,7 @@ Modeló diez acuaplanetas con atmósfera tipo Tierra Arcaica y oblicuidades entr
 evaluó su habitabilidad mediante la temperatura superficial del mar y la temperatura de bulbo
 húmedo.
 
-[Acceso libre en el repositorio institucional](PEGAR_LINK_REPOSITORIO_TESIS)
+[Acceso libre en el repositorio institucional](https://repositorio.udec.cl/items/c81fe24f-f6c9-4d11-99c6-708e0ea860f8)
 
 ---
 
