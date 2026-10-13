@@ -82,7 +82,7 @@ mostrar el estilo del paisaje sonoro que tendrá la instalación.
 *El GIF no tiene sonido. El registro completo incluye la composición de referencia
 de Maximiliano Rioseco, que anticipa la línea sonora de la instalación.*
 
-**▶ [Ver el registro completo con sonido (1:25)](https://youtube.com/shorts/BNEnRIO2AH4?feature=share)**
+**▶ [Ver el registro completo con sonido (1:25)](https://www.youtube.com/watch?v=BNEnRIO2AH4)**
 
 **Sobre el código fuente.** LuzCuerpo es desarrollo propio previo y su código no se publica
 aquí. Según el numeral 8.1 de las bases, la institución postulante conserva la propiedad
