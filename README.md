@@ -101,7 +101,7 @@ pictogramas y la guía en lectura fácil se definen con ellas y ellos.
 
 <!-- Sube tus imágenes a la carpeta linea-grafica/ y ajusta los nombres -->
 ![Línea gráfica — propuesta 1](linea_grafica/Cover1.png)
-![Línea gráfica — propuesta 2](linea_grafica/Unidad_Interactiva.pngg)
+![Línea gráfica — propuesta 2](linea_grafica/Unidad_Interactiva.png)
 ![Línea gráfica — propuesta 2](linea_grafica/material_en_uso.png)
 ![Línea gráfica — propuesta 2](linea_grafica/material_ilustrado_conmemorativo_complementario1.png)
 
