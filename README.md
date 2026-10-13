@@ -43,6 +43,7 @@ No hay botones, pantallas táctiles ni mandos: el cuerpo es la interfaz.
 |---|---|---|
 | Los datos planetarios y su visualización | **DancingGlobe**, visualizador web de las simulaciones de la tesis | [Demo en vivo](https://simonegonzalezvidal.github.io/dancinglobe/) · [Repositorio](https://github.com/simonegonzalezvidal/dancinglobe) |
 | El cuerpo como interfaz | **LuzCuerpo**, prototipo de detección de cuerpo y visuales interactivas en tiempo real | Videos de prueba, más abajo |
+| Sonificación del movimiento | Prototipo de las piezas de sonido que pueden hacerse con Ableton y que se usarán para sonidificar el movimiento basado en los datos atmosféricos de la Tesis | Muestra en video de en link de Youtube, más abajo |
 | La identidad visual de la experiencia | Línea gráfica en desarrollo | Imágenes, más abajo |
 
 ---
