@@ -133,7 +133,7 @@ conmemorativas** que refuerzan los conceptos científicos abordados.
 ## Investigación previa
 
 *Modeling of Archean Earth-like aquaplanets atmospheres: the effect of obliquity on habitability
-and observables of exoplanets*. Simone González-Vidal. Tesis para optar al grado de Magíster en
+and observables of exoplanets*. BSE. González-Vidal. Tesis para optar al grado de Magíster en
 Astronomía, Universidad de Concepción, 2024.
 
 Modeló diez acuaplanetas con atmósfera tipo Tierra Arcaica y oblicuidades entre 0° y 90°, y
@@ -148,9 +148,9 @@ húmedo.
 
 | | |
 |---|---|
-| Contenidos científicos y desarrollo de software | Simone González-Vidal |
+| Contenidos científicos y desarrollo de software | BSE. González-Vidal |
 | Diseño de experiencia y composición sonora | Maximiliano Rioseco |
-| Dirección general | Francisco Córdoba |
+| Dirección general | Francisco Córdova |
 
 Instituciones asociadas: Balmaceda Arte Joven Biobío (Concepción) y Oficina de la Discapacidad
 e Inclusión, Ilustre Municipalidad de San Pedro de la Paz.
