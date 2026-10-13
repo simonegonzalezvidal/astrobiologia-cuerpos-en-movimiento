@@ -100,8 +100,10 @@ Oficina de la Discapacidad e Inclusión de San Pedro de la Paz, porque los apoyo
 pictogramas y la guía en lectura fácil se definen con ellas y ellos.
 
 <!-- Sube tus imágenes a la carpeta linea-grafica/ y ajusta los nombres -->
-![Línea gráfica — propuesta 1](linea-grafica/01.png)
-![Línea gráfica — propuesta 2](linea-grafica/02.png)
+![Línea gráfica — propuesta 1](linea-grafica/Cover1.png)
+![Línea gráfica — propuesta 2](linea-grafica/Unidad_Interactiva.pngg)
+![Línea gráfica — propuesta 2](material_en_uso.png)
+![Línea gráfica — propuesta 2](material_ilustrado_conmemorativo_complementario1.png)
 
 ---
 
@@ -149,7 +151,6 @@ húmedo.
 | Contenidos científicos y desarrollo de software | Simone González-Vidal |
 | Diseño de experiencia y composición sonora | Maximiliano Rioseco |
 | Dirección general | Francisco Córdoba |
-| Música de referencia del demo | Maximiliano Rioseco |
 
 Instituciones asociadas: Balmaceda Arte Joven Biobío (Concepción) y Oficina de la Discapacidad
 e Inclusión, Ilustre Municipalidad de San Pedro de la Paz.
