@@ -78,11 +78,10 @@ mostrar el estilo del paisaje sonoro que tendrá la instalación.
 <!-- Reemplaza por tu GIF cuando lo tengas: se reproduce solo, sin que nadie tenga que hacer clic -->
 ![LuzCuerpo en funcionamiento](media/luzcuerpo-demo.gif)
 
-**Videos completos:**
+*El GIF no tiene sonido. El registro completo incluye la composición de referencia
+de Maximiliano Rioseco, que anticipa la línea sonora de la instalación.*
 
-- [Prueba 1 — template [NOMBRE]](PEGAR_LINK_YOUTUBE_NO_LISTADO)
-- [Prueba 2 — template [NOMBRE]](PEGAR_LINK_YOUTUBE_NO_LISTADO)
-- [Prueba 3 — template [NOMBRE]](PEGAR_LINK_YOUTUBE_NO_LISTADO)
+**▶ [Ver el registro completo con sonido (1:25)](https://youtube.com/shorts/BNEnRIO2AH4?feature=share)**
 
 **Sobre el código fuente.** LuzCuerpo es desarrollo propio previo y su código no se publica
 aquí. Según el numeral 8.1 de las bases, la institución postulante conserva la propiedad
