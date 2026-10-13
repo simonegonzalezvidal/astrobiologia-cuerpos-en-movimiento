@@ -77,7 +77,7 @@ con distintos templates visuales, acompañadas por una música de referencia com
 mostrar el estilo del paisaje sonoro que tendrá la instalación.
 
 <!-- Reemplaza por tu GIF cuando lo tengas: se reproduce solo, sin que nadie tenga que hacer clic -->
-![LuzCuerpo en funcionamiento](media/luzcuerpo-demo.gif)
+![LuzCuerpo en funcionamiento](media/luzcuerpo-demo1.gif)
 
 *El GIF no tiene sonido. El registro completo incluye la composición de referencia
 de Maximiliano Rioseco, que anticipa la línea sonora de la instalación.*
